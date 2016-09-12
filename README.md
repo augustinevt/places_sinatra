@@ -24,8 +24,6 @@ Contact me at augustvontrapp@gmail.com
 
 * ruby
 * rspec/capybara
-* postgres
-* SQL
 * ActiveRecord
 * Sinatra
 * CSS
